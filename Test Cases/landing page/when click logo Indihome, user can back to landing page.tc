@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>when click logo Indihome, user can back to landing page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0f98e15-4350-4b1c-94e8-feeb6a725a93</testCaseGuid>
+</TestCaseEntity>
